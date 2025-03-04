@@ -1,0 +1,28 @@
+# Ignorar tudo
+*
+
+# Exceto a pasta src
+!src/
+!src/**
+
+# Ignorar arquivos específicos dentro de src (se necessário)
+# Exemplo: !src/*.py (para permitir apenas arquivos Python)
+
+# Ignorar ambientes virtuais
+.venv/
+venv/
+
+# Ignorar dependências geradas
+requirements.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas de resultados e gravações
+recordings/
+results/
