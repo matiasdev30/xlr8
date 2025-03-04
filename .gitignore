@@ -4,6 +4,7 @@
 # Exceto a pasta src
 !src/
 !src/**
+!requirements.txt
 
 # Ignorar arquivos específicos dentro de src (se necessário)
 # Exemplo: !src/*.py (para permitir apenas arquivos Python)
@@ -13,7 +14,7 @@
 venv/
 
 # Ignorar dependências geradas
-requirements.txt
+
 __pycache__/
 *.pyc
 *.pyo
