@@ -1,6 +1,6 @@
 # XLR8
 
-XLR8 é um projeto desenvolvido para [descrição do objetivo do projeto].
+XLR8 é um projeto desenvolvido para 
 
 ## Estrutura do Projeto
 
